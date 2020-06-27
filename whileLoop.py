@@ -33,4 +33,4 @@ while calculate != 0:
     calculate = input ("Do you want to calculate a area for another shape?(1-Yes|0-No):")
 
 
-print "\nThank you for using our software!" 
+print "\nThank you for using this software!" 
